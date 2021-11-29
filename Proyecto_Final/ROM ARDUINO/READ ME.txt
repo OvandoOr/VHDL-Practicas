@@ -1,0 +1,11 @@
+ 
+n es una variable que tienen que hacer contador de 0 a 1023
+mientras que f es la variable que tienen que sacar por el serial a 9600 baudios
+
+pongan un botón para iniciar un bucle y el bucle háganlo infinito “while (1)” para que siempre se mande como en el FPGA
+
+Si hay algún error de sintaxis háganmelo saber. 
+
+
+Saludos y éxito.
+
