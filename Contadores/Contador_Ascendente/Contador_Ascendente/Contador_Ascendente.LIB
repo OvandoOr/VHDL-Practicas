@@ -1,0 +1,23 @@
+timestamp=1422037218506
+
+[contador_ascendente]
+A/contador=A/Contador 21|./src/Contador_Ascendente.vhd|20|1*5812
+B/contador=3*0
+I=0*6633
+I/contador=0*6815
+M=11|0|v147|1422037218453|./src/Contador_Ascendente.vhd|0*6180*0x378c455a39369a59a745980a99e06b663de2f1c3|0*6537*0x7bd7e13dc0415552f89596087806a8cf
+M/contador=M/Contador 21|0|v147|1422037218459|./src/Contador_Ascendente.vhd|0*2886*0x1727b87c1edbf02ac32fdcc1e797ce0697cf7bdf|0*3332*0x7bd7e13dc0415552f89596087806a8cf
+R=./src/Contador_Ascendente.vhd|8
+
+[~A]
+ModifyID=47
+Version=73
+
+[~MFT]
+0=62|0Contador_Ascendente.mgf|6815|4101
+1=6|1Contador_Ascendente.mgf|5812|5812
+3=0|3Contador_Ascendente.mgf|0|0
+
+[~U]
+contador_ascendente=11|0*5924|
+

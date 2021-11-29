@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\Contador_Ascendente\library.cfg"  -j "c:\My_Designs\Contador_Ascendente\Contador_Ascendente\projlib.cfg"  -d "c:\My_Designs\Contador_Ascendente\Contador_Ascendente\compile"   -work Contador_Ascendente  -dbg -e 100 -2002 "c:\\My_Designs\\Contador_Ascendente\\Contador_Ascendente\\src\\Contador_Ascendente.vhd" 

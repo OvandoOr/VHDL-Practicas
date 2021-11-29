@@ -1,0 +1,31 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Contador_Ascendente
+
+[Library]
+Contador_Ascendente=.\Contador_Ascendente.LIB
+
+[$LibMap$]
+Contador_Ascendente=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/Contador_Ascendente.vhd=-1
+/Test_Contador_Ascendente.vhd=-1
+
+[Files.Data]
+.\src\Contador_Ascendente.vhd=VHDL Source Code
+.\src\Test_Contador_Ascendente.vhd=VHDL Source Code
+

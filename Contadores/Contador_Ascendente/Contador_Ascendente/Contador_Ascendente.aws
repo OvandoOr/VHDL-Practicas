@@ -1,0 +1,14 @@
+[Version]
+Version=8.1
+[Designs]
+Contador_Ascendente=Contador_Ascendente.adf
+[Settings]
+Active=Contador_Ascendente
+[Expand]
+contador_ascendente=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
